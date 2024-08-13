@@ -1,52 +1,39 @@
-# Prerequisites
-*.d
+# Language Classification
+*.c linguist-language=C
+*.h linguist-language=C
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Exclude other file types from language statistics
+*.d linguist-documentation
+*.o linguist-generated
+*.ko linguist-generated
+*.obj linguist-generated
+*.elf linguist-generated
+*.ilk linguist-generated
+*.map linguist-generated
+*.exp linguist-generated
+*.gch linguist-generated
+*.pch linguist-generated
+*.lib linguist-generated
+*.a linguist-generated
+*.la linguist-generated
+*.lo linguist-generated
+*.dll linguist-generated
+*.so linguist-generated
+*.dylib linguist-generated
+*.exe linguist-generated
+*.out linguist-generated
+*.app linguist-generated
+*.i*86 linguist-generated
+*.x86_64 linguist-generated
+*.hex linguist-generated
+*.dSYM/ linguist-generated
+*.su linguist-generated
+*.idb linguist-generated
+*.pdb linguist-generated
+*.mod* linguist-generated
+*.cmd linguist-generated
+.tmp_versions/ linguist-generated
+modules.order linguist-generated
+Module.symvers linguist-generated
+Mkfile.old linguist-generated
+dkms.conf linguist-generated
