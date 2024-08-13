@@ -1,0 +1,87 @@
+# FIXED
+
+sources/SPI.obj: ../sources/SPI.cpp
+sources/SPI.obj: C:/Users/Danial/workspace_v12/SPI-FLASH/include/SPI.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/common/include/DSP28x_Project.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Device.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Adc.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_DevEmu.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_CpuTimers.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_ECan.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_ECap.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_DMA.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_EPwm.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_EQep.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Gpio.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_I2c.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Mcbsp.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_PieCtrl.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_PieVect.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Spi.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Sci.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_SysCtrl.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_XIntrupt.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Xintf.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_Examples.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_GlobalPrototypes.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_EPwm_defines.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_Dma_defines.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_I2c_defines.h
+sources/SPI.obj: C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_DefaultIsr.h
+
+../sources/SPI.cpp:
+
+C:/Users/Danial/workspace_v12/SPI-FLASH/include/SPI.h:
+
+C:/Users/Danial/workspace_v12/header_files/common/include/DSP28x_Project.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Device.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Adc.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_DevEmu.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_CpuTimers.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_ECan.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_ECap.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_DMA.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_EPwm.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_EQep.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Gpio.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_I2c.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Mcbsp.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_PieCtrl.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_PieVect.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Spi.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Sci.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_SysCtrl.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_XIntrupt.h:
+
+C:/Users/Danial/workspace_v12/header_files/headers/include/DSP2833x_Xintf.h:
+
+C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_Examples.h:
+
+C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_GlobalPrototypes.h:
+
+C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_EPwm_defines.h:
+
+C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_Dma_defines.h:
+
+C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_I2c_defines.h:
+
+C:/Users/Danial/workspace_v12/header_files/common/include/DSP2833x_DefaultIsr.h:
+
